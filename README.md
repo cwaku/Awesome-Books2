@@ -13,7 +13,7 @@
 
 ## Live Demo 👀
 
-- [Live Demo Link](https://kingqabil.github.io/Awesome-Books2/)
+- [Live Demo Link](https://cwaku.github.io/Awesome-Books2/)
 
 ## Getting Started
 To get a local copy, just follow the steps That I am going to mention bellow:
